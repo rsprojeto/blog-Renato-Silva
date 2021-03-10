@@ -6,7 +6,16 @@
     <description>Recent content on Blog Data Sciences - Renato Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://rsprojeto.github.io/blog-Renato-Silva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rsprojeto.github.io/blog-Renato-Silva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sales Forecast for the next 6 weeks</title>
+      <link>https://rsprojeto.github.io/blog-Renato-Silva/post/2021-03-10-sales-forecast-for-the-next-6-weeks/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsprojeto.github.io/blog-Renato-Silva/post/2021-03-10-sales-forecast-for-the-next-6-weeks/</guid>
+      <description>Importing Needed packages library(tidyverse) library(lubridate) library(e1071) library(gridExtra) library(janitor) library(data.</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://rsprojeto.github.io/blog-Renato-Silva/post/2020-12-01-r-rmarkdown/</link>
@@ -71,12 +80,12 @@
     </item>
     
     <item>
-      <title>Emoji Support</title>
+      <title>Tentando Renato</title>
       <link>https://rsprojeto.github.io/blog-Renato-Silva/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rsprojeto.github.io/blog-Renato-Silva/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>É aqui que tudo acontece</description>
     </item>
     
     <item>
