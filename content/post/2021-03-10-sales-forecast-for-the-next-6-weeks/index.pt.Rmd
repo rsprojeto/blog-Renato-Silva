@@ -365,6 +365,8 @@ df2 <- df1
 
 ## Mindmap Hypotheses
 
+
+
 ```{r 2.1. Mindmap Hypotheses, echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
 knitr::include_graphics("/home/renato/repos/blog-Renato-Silva/static/images/MindMapsHypothesis.png")
 ```
