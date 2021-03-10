@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog Data Sciences - Renato Silva</title>
-    <link>https://https://rsprojeto.github.io/categories/</link>
+    <link>https://rsprojeto.github.io/blog-Renato-Silva/categories/</link>
     <description>Recent content in Categories on Blog Data Sciences - Renato Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://https://rsprojeto.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://rsprojeto.github.io/blog-Renato-Silva/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://https://rsprojeto.github.io/categories/r/</link>
+      <link>https://rsprojeto.github.io/blog-Renato-Silva/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://https://rsprojeto.github.io/categories/r/</guid>
+      <guid>https://rsprojeto.github.io/blog-Renato-Silva/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://https://rsprojeto.github.io/categories/syntax/</link>
+      <link>https://rsprojeto.github.io/blog-Renato-Silva/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://rsprojeto.github.io/categories/syntax/</guid>
+      <guid>https://rsprojeto.github.io/blog-Renato-Silva/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://https://rsprojeto.github.io/categories/themes/</link>
+      <link>https://rsprojeto.github.io/blog-Renato-Silva/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://rsprojeto.github.io/categories/themes/</guid>
+      <guid>https://rsprojeto.github.io/blog-Renato-Silva/categories/themes/</guid>
       <description></description>
     </item>
     
