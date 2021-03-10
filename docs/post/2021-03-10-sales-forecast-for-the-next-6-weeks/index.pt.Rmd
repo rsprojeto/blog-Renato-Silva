@@ -19,11 +19,10 @@ DisableComments: no
 knitr::opts_chunk$set(echo = TRUE, message = F, warning = F, fig.width = 13, fig.height = 6, comment = "")
 ```
 
+
 ```{r 2.1. Mindmap Hypotheses, echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
 knitr::include_graphics("https://www.implantandomarketing.com/wp-content/uploads/2015/05/3-passos-para-acertar-sua-previsao-de-vendas.jpg")
 ```
-
-
 
 # Importing Needed packages
 
@@ -367,7 +366,7 @@ df2 <- df1
 ## Mindmap Hypotheses
 
 ```{r 2.1. Mindmap Hypotheses, echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
-knitr::include_graphics("/home/renato/repos/Rossmann/inst/img/MindMapsHypothesis.png")
+knitr::include_graphics("/home/renato/repos/blog-Renato-Silva/static/images/MindMapsHypothesis.png")
 ```
 
 ## Creation of Hypotheses
