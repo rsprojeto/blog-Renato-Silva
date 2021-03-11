@@ -691,7 +691,9 @@ grid.arrange(barplot_state_holiday, density_state_holiday,
 **Falsa** Lojas com **maior sortimento** , **vendem menos**.  
 **False** Stores with **greater assortment **, **sell less**.  
 
-```{r}
+\@ref(fig:distribution)
+
+```{r distribution}
 
 density_assortment +
   labs(title= "Distribution assortment")+
