@@ -11,6 +11,7 @@ Description: ''
 Tags: []
 Categories: []
 DisableComments: no
+
 ---
 
 
@@ -20,9 +21,9 @@ knitr::opts_chunk$set(echo = TRUE, message = F, warning = F, fig.width = 13, fig
 ```
 
 
-<img src="https://www.implantandomarketing.com/wp-content/uploads/2015/05/3-passos-para-acertar-sua-previsao-de-vendas.jpg">
 
-```{r 2.1. Mindmap Hypotheses, echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
+
+```{r echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
 knitr::include_graphics("https://www.implantandomarketing.com/wp-content/uploads/2015/05/3-passos-para-acertar-sua-previsao-de-vendas.jpg")
 ```
 
@@ -367,10 +368,8 @@ df2 <- df1
 
 ## Mindmap Hypotheses
 
-
-
 ```{r 2.1. Mindmap Hypotheses, echo=FALSE, fig.cap="Mindmap Hypotheses", out.width = '100%'}
-knitr::include_graphics("rep('/images/MindMapsHypothesis.png.png', 3)")
+knitr::include_graphics("/home/renato/repos/blog-Renato-Silva/content/post/2021-03-10-sales-forecast-for-the-next-6-weeks/images/MindMapsHypothesis.png")
 ```
 
 ## Creation of Hypotheses
